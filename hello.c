@@ -3,6 +3,5 @@
 
 int main() {
 	printf("Hello!");
-	printf("My name is Meena.");
 	return 0;
 }
